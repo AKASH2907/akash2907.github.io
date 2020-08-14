@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Sasha Sax</title>
+    <link>https://alexsax.github.io/home/</link>
+    <description>Recent content in Homes on Sasha Sax</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2002 Sasha Sax</copyright>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alexsax.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://alexsax.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsax.github.io/home/about/</guid>
+      <description>Biography I am a third-year Ph.D. student at UC Berkeley, where I am jontly advised by Jitendra Malik and Amir Zamir (at EPFL). Before coming to Berkeley, I was at Stanford where I completed my M.Sc. in Computer Science, advised by Silvio Savarese. I received my B.Sc. in Math, also from Stanford.
+My research interests are in building general and flexible autonomous systems. These systems should be able to learn new things with minimal amounts of extra data (for example, by leveraging prior world knowledge).</description>
+    </item>
+    
+    <item>
+      <title>Selected Honors and Awards</title>
+      <link>https://alexsax.github.io/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsax.github.io/home/awards/</guid>
+      <description> CVPR 2018 Best Paper Award for Taskonomy. (ref) NVIDIA Pioneering Research Award 2018 for Gibson Environment. Stanford University Distinction in Research 2018 for Computational Evidence for Structure in the Space of Tasks. Winner of CVPR19 Habitat Embodied Agents Challenge with Mid-Level Representations. (ref)  </description>
+    </item>
+    
+    <item>
+      <title>Press Coverage</title>
+      <link>https://alexsax.github.io/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsax.github.io/home/news/</guid>
+      <description>        </description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://alexsax.github.io/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsax.github.io/home/experience/</guid>
+      <description>CV    Education    Internships and Research Positions</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://alexsax.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://alexsax.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://alexsax.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://alexsax.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://alexsax.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsax.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://alexsax.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsax.github.io/home/teaching/</guid>
+      <description>I love teaching, and think that it&amp;rsquo;s an important part of participating in academia.
+I have TA&amp;rsquo;ed:
+ CS331b: Representation Learning in Computer Vision (Fall 2017) CS103: Mathematical Foundations of Computing (Winter 2015)  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alexsax.github.io/home/contact/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsax.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
